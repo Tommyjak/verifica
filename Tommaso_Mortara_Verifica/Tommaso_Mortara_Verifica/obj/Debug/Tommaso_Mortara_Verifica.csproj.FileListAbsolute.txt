@@ -1,0 +1,2 @@
+c:\users\3f17\documents\visual studio 2015\Projects\Tommaso_Mortara_Verifica\Tommaso_Mortara_Verifica\bin\Debug\Tommaso_Mortara_Verifica.exe.config
+Z:\Tommaso_Mortara_Verifica\Tommaso_Mortara_Verifica\bin\Debug\Tommaso_Mortara_Verifica.exe.config
